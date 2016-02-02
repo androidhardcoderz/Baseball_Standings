@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Baseball Standings</string>
+    <string name="standings_api_address">https://baseball_application.s3.amazonaws.com/mlbstandings.json</string>
+    <string name="TEAM_NAMES">team_names.txt</string>
+    <string name="AWAY"><u>Away</u></string>
+    <string name="HOME"><u>Home</u></string>
+    <string name="TIME"><u>Time</u></string>
+    <string name="GAMES_BACK"><u>Games Back</u></string>
+    <string name="TEAMNAME"><u>Team Name</u></string>
+    <string name="WINSLOSSES"><u>Record</u></string>
+    <string name="WINNINGPCT"><u>Win %</u></string>
+    <string name="DATE"><u>Date</u></string>
+</resources>
